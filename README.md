@@ -1,8 +1,6 @@
 ## Frappe Webshop
 Frappe webshop is an Open Source eCommerce Platform
-![Frappe Webshop](webshop.jpg)
-![Frappe Webshop](profile-screen.jpg)
-![Frappe Webshop](webshsop-v2.jpg)
+
 
 
 ## Installation
